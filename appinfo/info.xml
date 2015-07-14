@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>button</id>
+	<name>Button</name>
+	<description>Redirect button on the login page</description>
+	<licence>AGPLv3</licence>
+	<author>Morris Jobke</author>
+	<version>0.1</version>
+	<require>7</require>
+</info>
